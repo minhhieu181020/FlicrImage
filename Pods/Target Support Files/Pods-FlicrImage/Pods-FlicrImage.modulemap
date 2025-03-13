@@ -1,0 +1,6 @@
+framework module Pods_FlicrImage {
+  umbrella header "Pods-FlicrImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

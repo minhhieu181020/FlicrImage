@@ -1,0 +1,6 @@
+framework module Pods_FlicrImageTests {
+  umbrella header "Pods-FlicrImageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
