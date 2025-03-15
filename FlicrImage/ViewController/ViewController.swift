@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 import RxSwift
 class ViewController: UIViewController {
-    
+    var viewModel: ViewModel!
     func viewModel<T: ViewModel>(_ type: T.Type) -> T {
         return self.viewModel as! T
     }

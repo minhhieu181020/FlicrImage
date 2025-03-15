@@ -9,6 +9,7 @@ target 'FlicrImage' do
  pod 'Alamofire'
  pod 'SwiftyJSON'
   # Pods for FlicrImage
+ pod 'SnapKit'
 
   target 'FlicrImageTests' do
     inherit! :search_paths

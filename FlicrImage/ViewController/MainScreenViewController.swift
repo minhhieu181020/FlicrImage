@@ -13,8 +13,7 @@ class MainScreenViewController: ViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("check git")
-        print("test source tree")
+
     }
     
 
